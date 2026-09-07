@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-## Oi eu sou a Pablo Santana, Desenvolvedor Front & Designer!
+## Oi eu sou a Pablo Santana, Desenvolvedor Full-Stack & Designer!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pablo1Dev&theme=transparent&show_icons=true" />
